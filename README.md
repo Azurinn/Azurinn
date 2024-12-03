@@ -3,7 +3,7 @@
 
 In addition to computer science, I am very fond of music, Lego and the Star Wars universe.
 
-<h2>Skills: REACT / JS / HTML / CSS</h2>
+<h2>Skills: REACT / JS / HTML / CSS / C#(Academic knowledge)</h2>
 
 - 🌱 I’m currently learning React 
 
