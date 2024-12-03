@@ -11,7 +11,5 @@ Skills: REACT / JS / HTML / CSS
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Azurinn&show_icons=true)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Azurinn)  
 
