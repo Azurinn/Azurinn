@@ -2,7 +2,7 @@
 #### Student of "Informatyka stosowana" at the Nicolaus Copernicus University in Torun.
 In addition to computer science, I am very fond of music, Lego and the Star Wars universe.
 
-Skills: REACT / JS / HTML / CSS
+<h2>Skills: REACT / JS / HTML / CSS</h2>
 
 - 🌱 I’m currently learning React 
 
