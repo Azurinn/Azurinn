@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Janek
-#### Student of Computer science  at the Nicolaus Copernicus University in Torun.
+#### Student of computer science  at the Nicolaus Copernicus University in Torun.
 
 In addition to computer science, I am very fond of music, Lego and the Star Wars universe.
 
